@@ -1,39 +1,38 @@
-# 👋 Hi, I'm Mohamed Ebrahim Hamed
+<h1 align="center">Hi 👋, I'm Mohamed Ebrahim Hamed</h1>
+<h3 align="center">An AI student passionate about machine learning, data analysis, and robotics.</h3>
 
-🎓 I'm a student at the Faculty of Artificial Intelligence, Kafr El-Sheikh University (KFS), expected to graduate in January 2027.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ebrahim-hamed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ebrahim-hamed" /> </p>
 
-🚀 I'm passionate about artificial intelligence, data science, and robotics. I enjoy building projects that involve smart systems and data-driven decision-making.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ebrahim-hamed" alt="mohamed-ebrahim-hamed" /></a> </p>
 
-🤖 I’m an active learner and member of several communities:
-- **Microsoft Learn Student Ambassador Program** – Learning SQL and exploring Microsoft's technologies.
-- **Robotics Club - Mansoura** – Engaging with AI-powered robotics and embedded systems.
-- **IEEE KFS Student Branch** – Participating in workshops on machine learning and tech innovation.
+- 🔭 I’m currently working on [commerce Performance Analysis](https://github.com/mohamed-ebrahim-hamed/ecommerce-performance-project)
 
----
+- 🌱 I’m currently learning **TensorFlow, scikit-learn, Power BI, Deep Learning Specialization**
 
-## 🛠️ Technical Skills
+- 👯 I’m looking to collaborate on [Facial Emotion Recognition](https://github.com/mariamskoot/Facial-Emotion-Recognition-Project)
 
-- **Programming**: Python (NumPy, Pandas, Matplotlib)
-- **Data Analysis**: SQL, Excel
-- **Machine Learning**: scikit-learn, basic TensorFlow
-- **Version Control**: Git & GitHub
+- 🤝 I’m looking for help with [CNC Plotter using Arduino](https://github.com/mohamed-ebrahim-hamed/CNC-Plotter)
 
----
+- 💬 Ask me about **Python, Data Analysis, AI Projects**
 
-## 📊 Projects
+- 📫 How to reach me **mohammedebrahim1177@gmail.com**
 
-- 🧠 **Student Performance Prediction using ML** – Built a model to predict student scores based on study time, gender, and school type.
-- 🌱 **Smart Irrigation System** – Simulated intelligent irrigation based on soil moisture and weather data.
-- 📈 **COVID-19 Data Analysis** – Visualized and analyzed trends in COVID-19 cases using Python and Pandas.
-- 🎯 **Customer Segmentation** – Used KMeans clustering to group customers based on purchase patterns.
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-ebrahim-hamed](https://www.linkedin.com/in/mohamed-ebrahim-hamed)
 
----
+- ⚡ Fun fact **I automate things just to avoid doing them twice 😄**
 
-## 📫 Contact Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-ebrahim-hamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ebrahim-hamed" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/e3erqzuhuyqsbhnf/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/e3erqzuhuyqsbhnf/?mibextid=qi2omg" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mohammed_ebrahim_hamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohammed_ebrahim_hamed" height="30" width="40" /></a>
+</p>
 
-- 📧 Email: mohamed_1157@ai.kfs.edu.eg  
-- 💼 LinkedIn: [mohamed-ebrahim-hamed](https://www.linkedin.com/in/mohamed-ebrahim-hamed)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-ebrahim-hamed&show_icons=true&locale=en&layout=compact" alt="mohamed-ebrahim-hamed" /></p>
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-ebrahim-hamed&show_icons=true&locale=en" alt="mohamed-ebrahim-hamed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ebrahim-hamed&" alt="mohamed-ebrahim-hamed" /></p>
